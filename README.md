@@ -81,24 +81,6 @@ An AI-powered resume analysis and optimization platform featuring supervised mac
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
-
----
-
-## Contribution Activity
-
-<p align="left">
-<a href="https://github.com/lapsecoder/lapsecoder/commits/main">
-  <img src="https://raw.githubusercontent.com/lapsecoder/lapsecoder/output/dist/contribution-graph.svg" alt="Contribution Graph" />
-</a>
-</p>
-
----
 
 ## Contact
 
