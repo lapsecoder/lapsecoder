@@ -1,10 +1,8 @@
 # lapsecoder — GitHub Profile
 
-> Hi, I'm Ahmed.
-> AIML Developer in Progress.
-> Python Developer.
-> Open Source Contributor.
-> Building Intelligent Systems.
+<p align="left">
+![Animated Intro](./profile/typing.svg)
+</p>
 
 Building intelligent systems, experimenting with machine learning, and contributing to open source.
 

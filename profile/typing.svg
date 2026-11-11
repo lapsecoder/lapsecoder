@@ -1,0 +1,37 @@
+<svg aria-label="Animated introduction" role="img" width="640" height="120" viewBox="0 0 640 120" xmlns="http://www.w3.org/2000/svg">
+  <title>Hi, I'm Ahmed. AIML Developer in Progress. Python Developer. Open Source Contributor. Building Intelligent Systems.</title>
+  <desc>Animated typing intro for lapsecoder GitHub profile.</desc>
+  <style>
+    .bg{fill:#0D1117;}
+    .line{fill:none;stroke:#334155;stroke-width:1;}
+    .cursor{fill:#39FF14;}
+    .text{font-family:ui-monospace,Menlo,Consolas,"Liberation Mono",monospace;}
+    .text.fg{fill:#8BE9FD;}
+    .text.accent{fill:#39FF14;}
+    .msg{fill:#C0CAF5;}
+    .blink{animation:blink 1.1s steps(2,start) infinite;}
+    .frame{animation:cycle 22s linear infinite;}
+    @keyframes blink{50%{opacity:0;}}
+    @keyframes cycle{
+      0%{opacity:1;}
+      18%{opacity:1;}
+      20%{opacity:0;}
+      20.01%{opacity:1;}
+      38%{opacity:1;}
+      40%{opacity:0;}
+      40.01%{opacity:1;}
+      58%{opacity:1;}
+      60%{opacity:0;}
+      60.01%{opacity:1;}
+      78%{opacity:1;}
+      80%{opacity:0;}
+      80.01%{opacity:1;}
+      100%{opacity:1;}
+    }
+  </style>
+  <rect class="bg" x="0" y="0" width="640" height="120"/>
+  <rect class="line" x="0.5" y="0.5" width="639" height="119"/>
+  <text class="text fg" x="20" y="40"><tspan class="msg frame">Hi, I'm Ahmed.</tspan><tspan class="cursor blink" x="20" y="40">_</tspan></text>
+  <text class="text accent" x="20" y="70"><tspan class="msg frame">AIML Developer in Progress.</tspan></text>
+  <text class="text fg" x="20" y="95"><tspan class="msg frame">Python Developer.</tspan><tspan class="msg frame"> Open Source Contributor.</tspan><tspan class="msg frame"> Building Intelligent Systems.</tspan></text>
+</svg>
