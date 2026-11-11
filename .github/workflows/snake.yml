@@ -14,23 +14,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Generate snake SVG
+      - name: Generate snake
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/contribution-graph.svg
-
-      - name: Generate snake GIF
-        uses: Platane/snk@master
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          gif_out_path: dist/contribution-graph.gif
+          outputs: |
+            dist/contribution-graph.svg
 
       - name: Commit generated snake assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -B output --track origin/output 2>/dev/null || git checkout -b output
-          git add dist/contribution-graph.svg dist/contribution-graph.gif
+          git add dist/contribution-graph.svg
           git diff --staged --quiet || git commit -m "chore: update contribution snake" || exit 0
           git push --force-with-lease origin output
