@@ -1,12 +1,8 @@
 # lapsecoder — GitHub Profile
 
-<p align="left">
-![Animated Intro](./profile/typing.svg)
-</p>
+**Computer Science diploma student specializing in AI/ML.**
 
-_Animated terminal intro — loops through a short set of intro lines in monospace green-on-dark style._
-
-Building intelligent systems, experimenting with machine learning, and contributing to open source.
+Building practical software, experimenting with machine learning, and contributing to open source.
 
 ---
 
@@ -25,9 +21,7 @@ Building intelligent systems, experimenting with machine learning, and contribut
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&labelColor=0D1117&color=3776AB)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&labelColor=0D1117&color=007396)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&labelColor=0D1117&color=00599C)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=0D1117&color=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&labelColor=0D1117&color=3178C6)
 
 ### Frameworks and tools
 
