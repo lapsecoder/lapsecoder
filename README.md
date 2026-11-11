@@ -4,6 +4,8 @@
 ![Animated Intro](./profile/typing.svg)
 </p>
 
+_Animated terminal intro — loops through a short set of intro lines in monospace green-on-dark style._
+
 Building intelligent systems, experimenting with machine learning, and contributing to open source.
 
 ---
@@ -90,7 +92,11 @@ An AI-powered resume analysis and optimization platform featuring supervised mac
 
 ## Contribution Activity
 
-![Contribution Graph](./profile/contribution-graph.svg)
+<p align="left">
+<a href="https://github.com/lapsecoder/lapsecoder/commits/main">
+  <img src="https://raw.githubusercontent.com/lapsecoder/lapsecoder/output/dist/contribution-graph.svg" alt="Contribution Graph" />
+</a>
+</p>
 
 ---
 
