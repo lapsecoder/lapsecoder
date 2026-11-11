@@ -1,10 +1,10 @@
 # lapsecoder — GitHub Profile
 
-> Hi, I'm Ahmed.
-> AIML Developer in Progress.
-> Python Developer.
-> Open Source Contributor.
-> Building Intelligent Systems.
+<p align="left">
+![Animated Intro](./profile/typing.svg)
+</p>
+
+_Animated terminal intro — loops through a short set of intro lines in monospace green-on-dark style._
 
 Building intelligent systems, experimenting with machine learning, and contributing to open source.
 
@@ -81,20 +81,6 @@ An AI-powered resume analysis and optimization platform featuring supervised mac
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
-
----
-
-## Contribution Activity
-
-![Contribution Graph](./profile/contribution-graph.svg)
-
----
 
 ## Contact
 
