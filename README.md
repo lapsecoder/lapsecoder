@@ -1,12 +1,8 @@
 # lapsecoder — GitHub Profile
 
-<p align="left">
-![Animated Intro](./profile/typing.svg)
-</p>
+**Computer Science diploma student specializing in AI/ML.**
 
-_Animated terminal intro — loops through a short set of intro lines in monospace green-on-dark style._
-
-Building intelligent systems, experimenting with machine learning, and contributing to open source.
+Building practical software, experimenting with machine learning, and contributing to open source.
 
 ---
 
