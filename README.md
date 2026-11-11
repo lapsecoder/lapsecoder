@@ -21,9 +21,7 @@ Building practical software, experimenting with machine learning, and contributi
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&labelColor=0D1117&color=3776AB)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&labelColor=0D1117&color=007396)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&labelColor=0D1117&color=00599C)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=0D1117&color=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&labelColor=0D1117&color=3178C6)
 
 ### Frameworks and tools
 
